@@ -1,7 +1,11 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f2eae8;
+}
+
 h1 {
   color: #3d3330;
   text-align: center;
-  font-family: Georgia, serif;
 }
 
 h2 {
@@ -9,10 +13,5 @@ h2 {
   text-align: center;
 }
 
-body {
-  background-color: #f2eae8;
-}
-
 p {
-  font-family: Georgia, serif;
 }
