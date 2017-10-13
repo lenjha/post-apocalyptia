@@ -7,8 +7,12 @@ body {
 .introimage {
   display: block;
   margin: auto;
-  align-items: center;
   border-radius: 20px;
+}
+
+.navbar text {
+  text-align: right;
+  background-color: purple;
 }
 
 h1 {
