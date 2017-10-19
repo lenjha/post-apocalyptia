@@ -10,7 +10,7 @@ body {
   border-radius: 20px;
 }
 
-.navbar text {
+.navbar {
   text-align: right;
   background-color: purple;
 }
